@@ -2,7 +2,7 @@
 date_default_timezone_set("Asia/Jakarta");
 
 $waktu = date("d-m-Y H:i:s");
-$pesan = "Halo Dunia! Web PHP saya berhasil jalan 🚀";
+$pesan = "Halo Dunia! Web PHP mister Qipp berhasil jalan 🚀";
 
 ?>
 
